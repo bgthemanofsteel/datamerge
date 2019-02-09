@@ -1,0 +1,12 @@
+[{
+  id: 'aBcDeFgH',
+  firstName: 'Juan',
+  lastName: 'Doe',
+  age: 32
+},
+{
+  id: 'zYxWvUt',
+  firstName: 'Alex',
+  lastName: 'Smith',
+  age: 24
+}]
